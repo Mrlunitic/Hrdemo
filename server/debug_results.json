@@ -1,0 +1,16 @@
+{
+  "env": {
+    "PORT": "5000",
+    "MONGODB_URI": "mongodb://localhost:27017/human_potential_hub",
+    "JWT_SECRET_SET": true,
+    "ADMIN_EMAIL": "admin@kangaroohr.com",
+    "ADMIN_PASSWORD_SET": true
+  },
+  "db": {
+    "connected": true,
+    "adminFound": true,
+    "adminEmail": "admin@kangaroohr.com",
+    "adminRole": "admin",
+    "passwordHashed": true
+  }
+}
